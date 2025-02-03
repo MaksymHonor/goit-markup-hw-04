@@ -423,7 +423,7 @@ gap: 16px;
   
 }
 .footer-item-link:hover {
-  background-color: #31d0aa;
+background-color: #31d0aa;
 }
 .footer-item-link:focus {
 background-color: #31d0aa;

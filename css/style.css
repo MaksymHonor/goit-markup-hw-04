@@ -386,12 +386,13 @@ a {
   color: #f4f4fd;
   letter-spacing: 0.02em;
   max-width: 264px;
+  
 }
-.footer-stile: {
+.footer-stile {
 display: flex;
 align-items: baseline;
 }
-.footer-text {
+.footer-link-text {
 margin-right: 120px;
 }
 .footer-social-media-text {
@@ -427,4 +428,7 @@ gap: 16px;
 }
 .footer-image-link {
   fill: #f4f4fd;
+}
+.social-media-cantainer {
+
 }
